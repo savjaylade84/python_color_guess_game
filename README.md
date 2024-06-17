@@ -1,5 +1,5 @@
 ## Simon - Guess Color Game
-### python game that let a user guess a color in sequence
+### python terminal game that let a user guess a color in sequence
 
 <br>
 
